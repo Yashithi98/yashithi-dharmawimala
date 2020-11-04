@@ -159,7 +159,7 @@ h2{
 .btn2 {
   position: absolute;
   left: -35%;
-  top:60%;
+  top:1115px;
   border: none;
   border-radius: 25px;
   background-color: black;
@@ -179,7 +179,7 @@ h2{
 
 .btn3 {
   position: absolute;
-  top:auto;
+  top:1867px;
   left: -39%;
   border: none;
   border-radius: 25px;
