@@ -158,8 +158,8 @@ h2{
 }
 .btn2 {
   position: absolute;
-  top: auto;
   left: -35%;
+  top:60%;
   border: none;
   border-radius: 25px;
   background-color: black;
