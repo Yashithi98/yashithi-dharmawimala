@@ -79,7 +79,7 @@ hr{
   text-align: center;
 }
 .socials{
-  margin-top: 50px;
+  margin-top: 0px;
   background-color: white;
   width:100%;
   box-shadow: 1px 4px 4px rgba(44, 62, 80, 0.10);
@@ -98,21 +98,29 @@ color:black;
 
 h2{
   font-family: 'Poppins', sans-serif;
+  font-size: 50px;
 }
 .description{
   position:absolute;
-  font-size: 25px;
-  margin-top: 100px;
-  margin-left: 41%;
-  margin-right: 2%;
+  margin-top: 40px;
+  margin-left: 40%;
+  margin-right: 5%;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-bottom: 200px;
+  text-align: justify;
 }
 .passage{
-  font-family: sans-serif;
+  font-family: 'Montserrat';
   font-weight: 20;
-  font-size: 17px;
-  padding-top: 50px;
-  padding-left: 35px;
-  padding-right:10.5%;
+  font-size: 20px;
+  padding-top: 2px;
+  padding-left: 0px;
+  padding-right:20%;
+}
+svg{
+  width:22px;
+  fill:black;
 }
 .blog{
     width:70%;

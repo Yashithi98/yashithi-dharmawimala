@@ -76,7 +76,10 @@ hr{
   width:20%;
   margin:1em 38%;
 }
-
+svg{
+  width:10px;
+  fill:black;
+}
 
 .socials{
   margin-top: 30px;
@@ -102,11 +105,12 @@ h2{
 .description{
   display: block;
   font-size: 14px;
-  margin-top: 50px;
+  margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 30px;
-  padding-right: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
 
 }
 .passage{
@@ -116,7 +120,7 @@ h2{
   padding-top: 30px;
   padding-left: 20px;
   padding-right: 30px;
-
+  text-align: justify;
 }
 
 .blog,#ml{
